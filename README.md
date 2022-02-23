@@ -1,2 +1,1 @@
-# noob-img
-## 个人图床
+# for PicGo
